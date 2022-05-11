@@ -1,0 +1,22 @@
+.container{
+    Background-color: Black;
+    
+
+}
+
+#telalogin{
+width: 350px;
+position: absolute;
+top:50%;
+left:50%;
+transform: translate(-50%, -50%);
+box-shadow: 5px 5px 50px 10px rgb(19, 18, 18)
+}
+
+#pagina{
+
+background-image: url("https://jonhnnyweslley.net/pt-br/blog/como-utilizar-ia-para-aumentar-sua-produtividade-em-programacao/tabnine_python_demo.gif");
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
